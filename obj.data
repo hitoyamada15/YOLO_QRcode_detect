@@ -1,0 +1,5 @@
+classes = 1
+train  = YOLO_QRcode_detect/train.txt
+valid  = YOLO_QRcode_detect/test.txt
+names = YOLO_QRcode_detect/obj.names
+backup = YOLO_QRcode_detect/backup/yolov4_qr_code_20210903_1615
